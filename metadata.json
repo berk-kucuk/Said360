@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "berkkucukk",
+                "Email": "dev.berkkucukk@gmail.com"
+            }
+        ],
+        "Category": "Fun",
+        "Description": "Sag kenardan cikan bir daragacinda sallanan seyh said, imlece tepki veren adam widgeti",
+        "Description[tr]": "Sag kenardan cikan bir daragacinda sallanan seyh said, imlece tepki veren adam widgeti",
+        "Icon": "preferences-desktop-theme",
+        "Id": "com.mazelinux.said360",
+        "License": "MIT",
+        "Name": "said360",
+        "Name[tr]": "said360",
+        "Version": "2.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
